@@ -10,7 +10,8 @@ Project Summary: Using data from Yelp, Zomato, and the COVID Track Project, we c
 
 Business Case: Help customers find the best and safest restaurants in the Las Vegas area
 
-Files:
+Code Files:
+  
   Data Export & Transform
   - COVID_Data.ipynb - Extract, clean, and transform data from COVID Tracking Project's API
   - Yelp_data.ipynb - Extract and clean data from Yelp's academic dataset
@@ -19,5 +20,9 @@ Files:
   
   Create database
   - FINAL PROJECT DDL_V2.sql - DDL for OLAP dimensional database
+  
+Document:  
+  - FinalPresentation_Team3.pdf - Presentation of final project
+  
   
   
